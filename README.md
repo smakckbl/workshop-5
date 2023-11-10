@@ -1,4 +1,6 @@
 quizapp aplication part-2
-![Screenshot_1699650660](https://github.com/smakckbl/introapp2/assets/148996142/7823fc4b-a463-4001-80ee-5032e03b396c)
 
-![Screenshot_1699651237](https://github.com/smakckbl/introapp2/assets/148996142/ab1cc7b6-8170-4707-bcea-82bc7452adf2)
+![Screenshot_1699650660](https://github.com/smakckbl/workshop-5/assets/148996142/dce536d4-4f29-4fad-8227-91f8378bfabb)
+
+
+![Screenshot_1699651237](https://github.com/smakckbl/workshop-5/assets/148996142/2eea5985-e367-4658-bb00-33f69fc2246c)
