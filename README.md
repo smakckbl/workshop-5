@@ -1,16 +1,6 @@
-# introapp2
+quizapp aplication part-2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1699651237](https://github.com/smakckbl/introapp2/assets/148996142/1c30e636-eba8-40bb-9d32-7b3e4155269b)
+![Screenshot_1699650660](https://github.com/smakckbl/introapp2/assets/148996142/f6a1718f-4fa3-4a25-be87-ada89616ea54)
+![Screenshot_1699650660](https://github.com/smakckbl/introapp2/assets/148996142/dced88f5-1caa-46fd-918a-713fac1484b0)
+![Screenshot_1699651237](https://github.com/smakckbl/introapp2/assets/148996142/ce720644-4629-4432-9510-8029c2bfb81f)
